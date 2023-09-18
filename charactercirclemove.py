@@ -19,4 +19,4 @@ while(0<theta):
 
 
     
-close.canvas()
+close_canvas()
